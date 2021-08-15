@@ -2,12 +2,9 @@
 the source code of bookmarklet to create a citation with a selected string.
 
 ## How to make bookmarklet
-1. Clone my source code.
-2. Put the source code on one line.
-3. URL-encode the source code. → (A)
-4. Create new bookmark in your web browser.
-5. Paste (A) into the URL.
-6. Name this bookmarklet "QuoteLink".
+1. Create new bookmark in your web browser.
+2. Paste the code of "QuoteLinker-min.js".
+3. Name this bookmarklet "QuoteLink".
 
 ## How to use the bookmarklet
 1. Activate the page that you want to make page link.
